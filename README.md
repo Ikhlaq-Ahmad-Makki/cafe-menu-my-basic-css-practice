@@ -33,7 +33,7 @@ This project is a simple cafe menu webpage built using HTML and CSS. It displays
 
 ## Author
 
-- Created by [Ikhlaq Ahmad Makki] ([Your GitHub Profile](https://github.com/your-username))
+- Created by [Ikhlaq Ahmad Makki] (https://github.com/Ikhlaq-Ahmad-Makki))
 
 Feel free to explore the cafe menu and enjoy the virtual coffee experience!
 
